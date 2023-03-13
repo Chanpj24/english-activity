@@ -90,14 +90,8 @@ section#contact-me {
     height: 85%;
 }
 
-section#contact-me div.row:nth-child(1) {
-    text-align: center;
-    color: #fff;
-}
 
-section#contact-me label {
-    color: #fff;
-}
+
 
 section#contact-me form {
     display: flex;
@@ -106,17 +100,7 @@ section#contact-me form {
     align-items: center;
 }
 
-section#contact-me form * {
-    background: transparent;
-    color: #fff;
-}
 
-section#contact-me form input,
-section#contact-me form textarea {
-    border: 1px solid #fff;
-    border-radius: 4px;
-    margin-bottom: 15px;
-}
 
 section#contact-me form button {
     cursor: pointer;
@@ -128,9 +112,6 @@ section#contact-me form button {
     /* font-weight: 200; */
 }
 
-section#contact-me form button:hover {
-    background: #447BBE;
-}
 
 /* ANIMACIONES*/
 
